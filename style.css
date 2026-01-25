@@ -1,5 +1,6 @@
 body {
-  font-family: 'Lato', sans-serif;
+  
+  font-family: 'IBM Plex Mono', monospace;
   margin: 0;
   padding: 0;
   line-height: 1.6;
@@ -235,6 +236,7 @@ footer.credits {
   background-color: #f0f0f0;
   border-top: 1px solid #ccc;
 }
+
 
 
 
